@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-	id="plugin.video.rtvechopo" version="2" name="[B][COLOR white]rtve[COLOR red]chopo[/COLOR][/B]" provider-name="anonimo">
+	id="plugin.video.rtvechopo" version="3" name="[B][COLOR white]rtve[COLOR red]chopo[/COLOR][/B]" provider-name="anonimo">
 <requires>
     <import addon="script.module.requests" />
     <import addon="script.module.resolveurl"  optional="true" />
